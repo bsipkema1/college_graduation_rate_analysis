@@ -12,3 +12,17 @@ The final model found that **admission rate, cost of attendance, and Pell Grant 
 
 ---
 
+## 🎯 Research Question & Objectives
+
+The analysis was designed around the following research question:
+
+**How do admission rate, cost of attendance, and the percentage of Pell Grant recipients relate to graduation rates at four-year U.S. colleges?**
+
+To address this question, the project focused on the following objectives:
+
+- Examine the distribution and characteristics of **admission rates, cost of attendance, Pell Grant participation, and graduation rates**.
+- Evaluate the relationship between each of the three predictor variables and college graduation rates.
+- Develop a **multiple linear regression model** to determine whether admission rate, cost of attendance, and Pell Grant percentage significantly predict graduation rates.
+- Interpret the statistical results to identify which factors have the strongest relationships with graduation rates.
+
+---
