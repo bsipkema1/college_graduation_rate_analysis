@@ -130,11 +130,17 @@ college_graduation_rate_analysis/
 │   └── College_Graduation_Rate_Analysis.pdf
 │
 ├── syntax/
-│   └── SPSS_Syntax.png
+│   └── SPSS_syntax.png
 │
 └── README.md
 
+---
 
+## 📄 Full Report
+
+The complete project report includes the data preparation process, descriptive statistics, visualizations, multiple linear regression analysis, conclusions, and original SPSS syntax.
+
+**[View the Full Analysis Report](report/College_Graduation_Rate_Analysis.pdf)**
 
 
 
