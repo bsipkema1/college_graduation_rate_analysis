@@ -90,7 +90,19 @@ The overall regression model was **statistically significant (F = 362.71, p < .0
 
 The results show that graduation rates are related to multiple institutional and student factors rather than a single characteristic. While the model explained a meaningful portion of the differences in graduation rates, approximately **60.8% of the variation remained unexplained**, suggesting that additional factors outside of this analysis also contribute to college completion rates.
 
+---
 
+## 🔍 Key Findings
+
+The analysis identified several meaningful relationships between institutional characteristics and graduation rates. While these results do not establish cause and effect, they highlight important differences among the four-year colleges included in the dataset.
+
+- **College selectivity was associated with graduation rates.** Institutions with lower admission rates tended to have higher graduation rates, with admission rate showing a negative relationship with graduation rate (β = -0.13).
+
+- **Higher-cost institutions tended to have higher graduation rates.** Cost of attendance showed a positive relationship with graduation rate (β = 0.34), although cost alone should not be interpreted as causing higher completion rates.
+
+- **Pell Grant participation showed a negative relationship with graduation rates.** Institutions serving a higher percentage of Pell Grant recipients tended to have lower graduation rates (β = -0.34), highlighting a potential relationship between student financial need and college completion.
+
+  
 
 
 
