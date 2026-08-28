@@ -133,6 +133,8 @@ college_graduation_rate_analysis/
 │   └── SPSS_syntax.png
 │
 └── README.md
+```
+The repository is organized to provide access to the key visualizations, original analysis report, and SPSS syntax used for this project.
 
 ---
 
