@@ -102,7 +102,16 @@ The analysis identified several meaningful relationships between institutional c
 
 - **Pell Grant participation showed a negative relationship with graduation rates.** Institutions serving a higher percentage of Pell Grant recipients tended to have lower graduation rates (β = -0.34), highlighting a potential relationship between student financial need and college completion.
 
-  
+---
+
+## 🛠️ Tools & Skills Demonstrated
+
+- **IBM SPSS Statistics** – Data preparation, descriptive statistics, visualization, and statistical modeling
+- **Multiple Linear Regression** – Model development, evaluation, and interpretation of predictor relationships
+- **Exploratory Data Analysis** – Examined distributions and descriptive statistics before developing the regression model
+- **Data Cleaning & Variable Selection** – Filtered a large dataset and revised variable selection when the initial approach produced difficult-to-interpret results
+- **Statistical Interpretation** – Evaluated statistical significance, regression coefficients, and model fit
+- **Data Communication** – Translated statistical output into clear findings and conclusions  
 
 
 
