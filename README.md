@@ -44,6 +44,36 @@ After selecting the appropriate variables, descriptive statistics and visualizat
 
 ---
 
+## 📈 Exploratory Data Analysis
+
+Descriptive statistics and visualizations were used to better understand the distribution of the variables before developing the regression model. This step helped identify the overall characteristics of the institutions in the dataset and provided context for interpreting the final analysis.
+
+### Admission Rate Distribution
+
+The average admission rate among institutions in the dataset was approximately **71.6%**. Most colleges admitted a relatively high percentage of applicants, while fewer institutions had highly selective admission policies.
+
+![Admission Rate Distribution](images/admission_rate_distribution.png)
+
+The distribution shows that a large portion of the institutions admitted between approximately 70% and 100% of applicants. This suggests that highly selective colleges represented a smaller portion of the institutions included in the analysis.
+
+### Cost of Attendance Distribution
+
+The average annual cost of attendance was approximately **$29,298**, with costs ranging from about $5,500 to nearly $87,000.
+
+![Cost of Attendance Distribution](images/cost_attendance_distribution.png)
+
+Most institutions were concentrated within the lower and middle cost ranges, while a smaller number of colleges had significantly higher annual costs. These higher-cost institutions created the long tail visible in the distribution.
+
+### Graduation Rate Distribution
+
+The average graduation rate among institutions in the dataset was approximately **52%**, meaning that just over half of first-time, full-time students completed their bachelor's degree within six years.
+
+![Graduation Rate Distribution](images/graduation_rate_distribution.png)
+
+Most institutions had graduation rates concentrated within the middle portion of the distribution, while fewer colleges appeared at the very low or very high ends. Examining this distribution was especially important because graduation rate served as the dependent variable in the regression analysis.
+
+---
+
 
 
 
