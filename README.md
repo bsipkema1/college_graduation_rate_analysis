@@ -74,6 +74,22 @@ Most institutions had graduation rates concentrated within the middle portion of
 
 ---
 
+## 📉 Multiple Linear Regression
+
+A multiple linear regression model was used to determine whether **admission rate, cost of attendance, and Pell Grant percentage** could significantly predict graduation rates among four-year U.S. colleges.
+
+The overall regression model was **statistically significant (F = 362.71, p < .001)** and explained approximately **39.2% of the variation in graduation rates (R² = .392)**. All three predictor variables were statistically significant within the model.
+
+![Multiple Linear Regression Results](images/multiple_regression_results.png)
+
+### Model Results
+
+- **Admission Rate (β = -0.13):** Admission rate had a negative relationship with graduation rate. Institutions with lower admission rates, indicating greater selectivity, tended to have higher graduation rates.
+- **Cost of Attendance (β = 0.34):** Cost of attendance had a positive relationship with graduation rate, with higher-cost institutions tending to have higher graduation rates.
+- **Pell Grant Percentage (β = -0.34):** Pell Grant participation had a negative relationship with graduation rate. Institutions with a higher percentage of students receiving Pell Grants tended to have lower graduation rates.
+
+The results show that graduation rates are related to multiple institutional and student factors rather than a single characteristic. While the model explained a meaningful portion of the differences in graduation rates, approximately **60.8% of the variation remained unexplained**, suggesting that additional factors outside of this analysis also contribute to college completion rates.
+
 
 
 
