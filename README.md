@@ -113,7 +113,26 @@ The analysis identified several meaningful relationships between institutional c
 - **Statistical Interpretation** – Evaluated statistical significance, regression coefficients, and model fit
 - **Data Communication** – Translated statistical output into clear findings and conclusions  
 
+---
 
+## 📁 Repository Structure
+
+```text
+college_graduation_rate_analysis/
+│
+├── images/
+│   ├── admission_rate_distribution.png
+│   ├── cost_attendance_distribution.png
+│   ├── graduation_rate_distribution.png
+│   └── multiple_regression_results.png
+│
+├── report/
+│   └── College_Graduation_Rate_Analysis.pdf
+│
+├── syntax/
+│   └── SPSS_Syntax.png
+│
+└── README.md
 
 
 
