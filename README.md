@@ -26,3 +26,35 @@ To address this question, the project focused on the following objectives:
 - Interpret the statistical results to identify which factors have the strongest relationships with graduation rates.
 
 ---
+
+## 🗂️ Data Source & Preparation
+
+The dataset used for this project was obtained from the **U.S. Department of Education** and included information collected from sources such as IPEDS, the National Student Loan Data System (NSLDS), FAFSA, and the U.S. Department of the Treasury and IRS.
+
+The original dataset contained thousands of variables, so the data was filtered to focus on the information needed for this analysis. Four primary variables were selected:
+
+- **Graduation Rate** – the dependent variable used as the outcome of the analysis.
+- **Admission Rate** – the percentage of applicants admitted by each institution.
+- **Cost of Attendance** – the annual cost for a full-time undergraduate student.
+- **Pell Grant Percentage** – the percentage of undergraduate students receiving Pell Grant assistance.
+
+During the initial analysis, admission policy was treated as a categorical variable representing open or selective admission. This approach produced results that were difficult to interpret, so the variable selection was revised to use the continuous admission-rate measure (ADM_RATE_ALL). This provided a more useful way to compare admission rates across institutions and was used in the final analysis.
+
+After selecting the appropriate variables, descriptive statistics and visualizations were used to examine the data before developing the multiple linear regression model.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
